@@ -1,6 +1,6 @@
 # Multi-Threaded-Chat-Server
 
-Version requirements: g++ -11
+Version requirements: g++ -11 
 
 Class Diagram:
 
